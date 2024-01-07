@@ -1,0 +1,1 @@
+# cmt-config-dotnet
