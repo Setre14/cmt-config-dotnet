@@ -1,0 +1,7 @@
+repos: []
+packages:
+- tree
+kind: dnf-config
+api:
+  kind: dnf-config
+  version: 1
