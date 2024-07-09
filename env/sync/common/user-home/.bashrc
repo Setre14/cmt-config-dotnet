@@ -145,4 +145,4 @@ source "$OSH"/oh-my-bash.sh
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
 
-source ~/.config/env/root.sh
+source ~/.config/env/_root.sh
