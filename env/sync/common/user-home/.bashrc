@@ -11,7 +11,6 @@ export OSH='/home/setre14/.oh-my-bash'
 # it'll load a random theme each time that oh-my-bash is loaded.
 OSH_THEME="mairan"
 
-
 # If you set OSH_THEME to "random", you can ignore themes you don't like.
 # OMB_THEME_RANDOM_IGNORED=("powerbash10k" "wanelo")
 
@@ -105,7 +104,7 @@ aliases=(
 plugins=(
 	git
 	bashmarks
-	kubectl
+	# kubectl
 )
 
 # Which plugins would you like to conditionally load? (plugins can be found in ~/.oh-my-bash/plugins/*)

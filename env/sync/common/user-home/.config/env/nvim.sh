@@ -6,3 +6,4 @@ export NVM_DIR="$HOME/.nvm"
 export PATH=/wsp/devtools/nvim/bin:$PATH
 
 export EDITOR=nvim
+alias vim=nvim
