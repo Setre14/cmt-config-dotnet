@@ -116,4 +116,3 @@ if ! shopt -oq posix; then
 fi
 
 source ~/.config/env/_root.sh
-
