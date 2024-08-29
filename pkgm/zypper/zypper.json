@@ -8,7 +8,11 @@
       "lsd",
       "bat",
       "starship",
-      "zoxide"
+      "zoxide",
+      "docker",
+      "docker-compose",
+      "docker-compose-switch",
+      "kind"
     ]
   }
 }
