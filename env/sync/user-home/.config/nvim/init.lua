@@ -1,14 +1,11 @@
--- bootstrap lazy.nvim, LazyVim and your plugins
+
 require("config.lazy")
-require("toggleterm").setup({
-  open_mapping = [[<c-\>]],
-})
-require("neo-tree").setup({
-  filesystem = {
-    filtered_items = {
-      visible = true, -- This is what you want: If you set this to `true`, all "hide" just mean "dimmed out"
-      hide_dotfiles = true,
-      hide_gitignored = true,
-    },
-  },
-})
+
+-- -- disable language provider support (lua and vimscript plugins only)
+-- vim.g.loaded_perl_provider = 0
+-- vim.g.loaded_ruby_provider = 0
+-- vim.g.loaded_node_provider = 0
+-- vim.g.loaded_python_provider = 0
+-- vim.g.loaded_python3_provider = 0
+
+vim.g.noshowmode = true
