@@ -1,4 +1,4 @@
 #!/bin/bash
 
-alias bat=batcat
+# alias bat=batcat
 alias cat=bat
