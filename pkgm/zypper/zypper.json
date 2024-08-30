@@ -15,7 +15,8 @@
       "kind",
       "fzf",
       "helm",
-      "bash-completion"
+      "bash-completion",
+      "htop"
     ]
   }
 }
