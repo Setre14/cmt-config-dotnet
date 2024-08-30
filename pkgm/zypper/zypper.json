@@ -14,7 +14,8 @@
       "docker-compose-switch",
       "kind",
       "fzf",
-      "helm"
+      "helm",
+      "bash-completion"
     ]
   }
 }
