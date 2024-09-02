@@ -16,7 +16,8 @@
       "fzf",
       "helm",
       "bash-completion",
-      "htop"
+      "htop",
+      "gcc"
     ]
   }
 }
