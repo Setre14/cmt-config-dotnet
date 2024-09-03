@@ -17,7 +17,8 @@
       "helm",
       "bash-completion",
       "htop",
-      "gcc"
+      "gcc",
+      "redis"
     ]
   }
 }
