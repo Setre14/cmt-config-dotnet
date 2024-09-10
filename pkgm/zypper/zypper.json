@@ -19,7 +19,8 @@
       "htop",
       "gcc",
       "redis",
-      "python3"
+      "python3",
+      "python3-pip"
     ]
   }
 }
