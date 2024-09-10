@@ -18,7 +18,8 @@
       "bash-completion",
       "htop",
       "gcc",
-      "redis"
+      "redis",
+      "python3"
     ]
   }
 }
