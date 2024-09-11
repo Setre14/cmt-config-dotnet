@@ -1,1 +1,1 @@
-# cmt-config-dotnet
+# cmt-settings-dotnet

@@ -1,0 +1,9 @@
+{
+  "apiVersion": "v1",
+  "kind": "zypper-settings",
+  "spec": {
+    "packages": [
+      "python3-pipx"
+    ]
+  }
+}

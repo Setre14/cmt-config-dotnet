@@ -2,7 +2,7 @@ repos: []
 packages:
 - tree
 - fzf
-kind: dnf-config
+kind: dnf-settings
 api:
-  kind: dnf-config
+  kind: dnf-settings
   version: 1
