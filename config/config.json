@@ -1,8 +1,8 @@
 {
   "apiVersion": "v1",
-  "kind": "env-settings",
+  "kind": "config-settings",
   "spec": {
-    "paths": [
+    "items": [
       {
         "volume": "/",
         "path": "user-home",

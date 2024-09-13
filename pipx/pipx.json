@@ -1,9 +1,9 @@
 {
   "apiVersion": "v1",
-  "kind": "zypper-settings",
+  "kind": "pipx-settings",
   "spec": {
     "packages": [
-      "python3-pipx"
+      "timetagger_cli"
     ]
   }
 }
